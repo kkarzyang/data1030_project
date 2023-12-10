@@ -1,5 +1,5 @@
 # data1030_project
-The project is about to predict whether a given employee is promoted or not. There are 13 features in total for the data set. 4 different algoirthms were used and hyperparameters were tuned to find the best model. Results are discussed in the report.
+The project is about to predict whether a given employee is promoted or not. There are 13 features in total for the data set. The data was splitted for cross validation. 4 different algoirthms were used and different hyperparameters were tuned to find the best model. Results are discussed in the report.
 
 python version: 3.11.4 <br>
 numpy version 1.24.4 <br>
